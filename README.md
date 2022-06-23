@@ -52,7 +52,7 @@ func main() {
 
 ## Currently supported devices
 
-The following 78 devices are supported.
+The following 79 devices are supported.
 
 | Device Name | Interface Type |
 |----------|-------------|
@@ -123,6 +123,7 @@ The following 78 devices are supported.
 | [SSD1306 OLED display](https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf) | I2C / SPI |
 | [SSD1331 TFT color display](https://www.crystalfontz.com/controllers/SolomonSystech/SSD1331/381/) | SPI |
 | [SSD1351 OLED display](https://download.mikroe.com/documents/datasheets/ssd1351-revision-1.3.pdf) | SPI |
+| [SSD1681 ePaper display](https://www.crystalfontz.com/controllers/SolomonSystech/SSD1681/500/) | SPI |
 | [ST7735 TFT color display](https://www.crystalfontz.com/controllers/Sitronix/ST7735R/319/) | SPI |
 | [ST7789 TFT color display](https://cdn-shop.adafruit.com/product-files/3787/3787_tft_QT154H2201__________20190228182902.pdf) | SPI |
 | [Stepper motor "Easystepper" controller](https://en.wikipedia.org/wiki/Stepper_motor) | GPIO |
